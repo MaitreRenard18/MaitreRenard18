@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Renard 🦊</h1>
 
 <p align="center">
-  <i>Building things, exploring ideas, starting project and never finishing them.</i>
+  <i>Welcome to my GitHub 👋</i><br>
+  Here you will find a mix of personal projects, experiments, and things I’ve built while exploring different technologies.
 </p>
 
 ---
