@@ -93,5 +93,5 @@ Automated tool that monitors available student housing and sends a notification 
 ---
 
 <p align="center">
-  <i>Exploring ideas through code.</i>
+  <i>Thank you for visiting my profile :3</i>
 </p>
