@@ -10,7 +10,7 @@
 
 - Software development (tools, apps, experiments)
 - Backend systems & APIs
-- Video Games (mostly with rocedural generation in them)
+- Video Games (mostly with procedural generation in them)
 - Exploring different technologies and ideas
 
 ---
