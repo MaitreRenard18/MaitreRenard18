@@ -13,7 +13,7 @@
 - Backend systems & APIs
 - Video Games (mostly with procedural generation in them)
 - Exploring different technologies and ideas
-
+- I use Arch btw
 ---
 
 ## 🛠️ Tech stack
